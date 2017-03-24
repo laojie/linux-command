@@ -19,6 +19,7 @@ gzip(选项)(参数)
 
 ```
 -a或——ascii：使用ASCII文字模式；
+-c或--stdout：标准输出,保持原始文件不变；
 -d或--decompress或----uncompress：解开压缩文件；
 -f或——force：强行压缩文件。不理会文件名称或硬连接是否存在以及该文件是否为符号连接；
 -h或——help：在线帮助；
